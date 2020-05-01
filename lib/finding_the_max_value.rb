@@ -1,4 +1,4 @@
 def find_max_value(array)
   # Add your solution here
-  array.max_by(&:field)
+  array.max_by(&: field)
 end
